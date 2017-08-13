@@ -234,10 +234,7 @@ header .sp_navi_li li a {
     font-weight: bold;
 }
 
-#container {
-  width: 100%;
-  float: left;
-}
+
 #sidebar {
   
   float: right;
