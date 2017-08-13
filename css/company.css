@@ -229,7 +229,11 @@ td {
     display: table-cell;
     vertical-align: inherit;
 }
-
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
 #news_area .news_title {
 font-size: 2rem;
     padding-bottom: 20px;
